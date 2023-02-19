@@ -27,7 +27,7 @@
   border-radius: 10px;
 }
 .text-container {
-  padding: 10px 24px 15px 18px;
+  padding: 15px 24px 15px 20px;
 }
 h1 {
   font-size: 23px;
